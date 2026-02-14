@@ -2,27 +2,27 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# [MOving HUman Detection using WiFi] 🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: [PIXEL]
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: [ABBHIRAMIE AJAYAN] - [GEC THRISSUR]
+- Member 2: [GAYATHRI U.M] - [GEC THRISSUR]
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Detect moving humam by pricinples of passive radar(no active transmission of EM waves , using only existing signals like wifi or FM ) using Wifi . Output graph shows normalized magnitude vs Doppler frequency . Peak in normalized magnitude is detected at 16hz as expected from calculations .]
 
 ### The Problem statement
-[What problem are you solving?]
+[Active radar transmission requires dedicated and costly transmitters -adds to EM pollution-Not suitabe for covert operations as in military-requires license for transmission .]
 
 ### The Solution
-[How are you solving it?]
+[Passive radar doesnot require the above. doesnot add to pollution of EM .suitable for covert operations. Makes use of existing EM waves]
 
 ---
 
@@ -31,13 +31,13 @@
 ### Technologies/Components Used
 
 **For Software:**
-- Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
-- Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Languages used: [python]
+- Frameworks used: []
+- Libraries used: [numpy,matplotlib,scipy,scikit,seaborn]
+- Tools used: [VS Code, Git]
 
 **For Hardware:**
-- Main components: [List main components]
+- Main components: [No hardware, just simulationList main components]
 - Specifications: [Technical specifications]
 - Tools required: [List tools needed]
 
@@ -46,10 +46,10 @@
 ## Features
 
 List the key features of your project:
-- Feature 1: [Description]
-- Feature 2: [Description]
-- Feature 3: [Description]
-- Feature 4: [Description]
+- Feature 1: [clutter cancellation]
+- Feature 2: [doppler based velocity]
+- Feature 3: [real time processing]
+- Feature 4: [privacy preserving]
 
 ---
 
@@ -59,7 +59,13 @@ List the key features of your project:
 
 #### Installation
 ```bash
-[Installation commands - e.g., npm install, pip install -r requirements.txt]
+[Installation commands -
+bashpip install numpy
+bashpip install scipy
+bashpip install matplotlib
+bashpip install seaborn
+
+]
 ```
 
 #### Run
@@ -89,8 +95,8 @@ List the key features of your project:
 ![Screenshot2](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![![alt text](image-1.png)](Add screenshot 3 here with proper name)
+*output graph showing object detection *
 
 #### Diagrams
 
@@ -126,7 +132,7 @@ List the key features of your project:
 ![Build](Add photos of build process here)
 *Explain the build steps*
 
-![Final](Add photo of final product here)
+![![alt text](image-2.png)](Add photo of final product here)
 *Explain the final build*
 
 ---
@@ -400,8 +406,8 @@ If you used AI tools during development, document them here for transparency:
 
 ## Team Contributions
 
-- [Name 1]: [Specific contributions - e.g., Frontend development, API integration, etc.]
-- [Name 2]: [Specific contributions - e.g., Backend development, Database design, etc.]
+- [Abbhiramie Ajayan]: [idea,documentation ,ppt]
+- [Gayathri]: [coding]
 - [Name 3]: [Specific contributions - e.g., UI/UX design, Testing, Documentation, etc.]
 
 ---
