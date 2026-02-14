@@ -13,7 +13,7 @@
 - Member 2: [GAYATHRI U.M] - [GEC THRISSUR]
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[https://drive.google.com/file/d/1J4520iMNhUQq7n-shLuYG4Aqt5gvZP7o/view?usp=drivesdk]
 
 ### Project Description
 [Detect moving humam by pricinples of passive radar(no active transmission of EM waves , using only existing signals like wifi or FM ) using Wifi . Output graph shows normalized magnitude vs Doppler frequency . Peak in normalized magnitude is detected at 16hz as expected from calculations .]
